@@ -16,15 +16,13 @@
 title: Hanh D. TRAN - Software Engineering is in mind.
 email: tranduchanh.ms@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   I'm an enthusiasm software developer. Therefore, I confident to my ability that can distribute to IT projects.
-   Always love to studying and solving challenges in IT projects such as program correctness proofs, optimization algorithms, 
-   decision support systems, mobile computing, mobile game. 
-   I'm interested in formal methods and unified theories of programming languages. 
+   I'm an enthusiasm software developer. Always love to studying and solving challenges in IT projects such as program correctness proofs, optimization algorithms, 
+   decision support systems, mobile computing, mobile game. I'm interested in formal methods and unified theories of programming languages. 
    I believed in correctness proofs of programs through by mathematics predicates.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  hanhdt
 
 # Build settings
 markdown: kramdown
