@@ -1,5 +1,8 @@
 # Hanh D. TRAN Development Portfolio
-## This is personal portfolio that introduce myself and development experiences. 
-## It is built on top:
-* Jekyll
-* devportfolio-template
+
+ This is personal portfolio that introduce myself and development experiences.
+
+## Built on top of these
+
+* [Jekyll](https://jekyllrb.com)
+* [devportfolio template](https://github.com/RyanFitzgerald/devportfolio)
