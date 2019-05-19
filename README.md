@@ -1,4 +1,4 @@
-# Hanh D. TRAN Developer Portfolio
+# Hanh D. TRAN personal website
 
  This is personal portfolio that introduce myself and development experiences.
 
